@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Concert at Echo Park",
+      "isInterested": false,
+      "locationCity": "Fort Lauderdale",
+      "locationState": "Florida"
+    },
+    {
+      "id": 2,
+      "title": "Laker's Basketball Game",
+      "isInterested": false,
+      "locationCity": "Los Angeles",
+      "locationState": "California"
+    },
+    {
+      "id": 3,
+      "title": "Concert at Echo Park",
+      "isInterested": false,
+      "locationCity": "Fort Lauderdale",
+      "locationState": "Florida"
+    },
+    {
+      "id": 4,
+      "title": "Chess Match",
+      "isInterested": false,
+      "locationCity": "Fort Lauderdale",
+      "locationState": "Florida"
+    },
+    {
+      "id": 5,
+      "title": "Hotdog Eating Contest",
+      "isInterested": false,
+      "locationCity": "Fort Lauderdale",
+      "locationState": "Florida"
+    },
+    {
+      "id": 6,
+      "title": "Carnival",
+      "isInterested": false,
+      "locationCity": "Fort Lauderdale",
+      "locationState": "Florida"
+    },
+    {
+      "id": 7,
+      "title": "State Championship Wrestling Match",
+      "isInterested": false,
+      "locationCity": "Fort Lauderdale",
+      "locationState": "Florida"
+    },
+    {
+      "id": 8,
+      "title": "Public Reading of Green Eggs and Ham",
+      "isInterested": false,
+      "locationCity": "Nashville",
+      "locationState": "Tennessee"
+    },
+    {
+      "id": 9,
+      "title": "Community Science Fair",
+      "isInterested": false,
+      "locationCity": "Temecula",
+      "locationState": "California"
+    },
+    {
+      "id": 10,
+      "title": "Harvard Alumni BBQ",
+      "isInterested": false,
+      "locationCity": "Boston",
+      "locationState": "Massachusetts"
+    },
+    {
+      "id": 11,
+      "title": "Movie Night at Baldwin Park",
+      "isInterested": false,
+      "locationCity": "Los Angeles",
+      "locationState": "California"
+    }
+  ]
+}
